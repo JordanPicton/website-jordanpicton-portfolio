@@ -1,0 +1,54 @@
+.red-hat-display-redhat700 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.red-hat-display-redhat900 {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+p {
+  font-size: 16px;
+}
+
+body {
+  background-color: hsl(225, 100%, 94%);
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body #order {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 450px;
+  border-radius: 5%;
+  overflow: hidden;
+}
+body #order p {
+  text-align: center;
+  width: 81%;
+}
+body #order #order-heading {
+  font-size: 1.5rem;
+  padding: 2rem 0 0.25rem 0;
+}
+body #order #order-sect {
+  display: flex;
+  align-items: center;
+  background-color: hsl(225, 100%, 98%);
+}
+body #order #order-sect #order-plan {
+  display: flex;
+  flex-direction: column;
+}/*# sourceMappingURL=main.css.map */
