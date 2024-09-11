@@ -13,4 +13,6 @@
   border-radius: 150px;
   background-color: purple;
   outline: 5px solid black;
+  padding: 0.025rem;
+  margin: 0.5rem;
 }
