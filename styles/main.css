@@ -18,6 +18,22 @@
 }
 
 /* ========================================== /
+  Title Styling - 22/09/2024 - 01:28:29
+/ ========================================== */
+#home-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#name-title {
+  display: flex;
+  flex-grow: 3;
+  justify-content: center;
+  font-size: 5rem;
+}
+
+/* ========================================== /
   Main Logo Styling - 06/08/2024 - 22:49:57
 / ========================================== */
 #pfp-logo {
@@ -34,4 +50,33 @@
 body{
   background-color: var(--background-colour);
   color: var(--highlight-1);
+  padding: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 3rem;  /* Bigger than default */
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+h4 {
+  font-size: 1.75rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-size: 1.25rem;
 }
