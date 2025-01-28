@@ -1,82 +1,10 @@
-/* =================================================== /
-  Project Name - Main CSS File
-  Author       - Jordan Picton
-  Branch       - Personal
-  Date & Time  - 06/08/2024 - 22:55:48
-/ ==================================================== */
-
-/* ========================================== /
-  Variables - 17/09/2024 - 21:13:30
-/ ========================================== */
-:root {
-  --background-colour: #131120;
-  --dark-colour-1: #282842;
-  --dark-colour-2: #371B70;
-  --accent: #C711E0;
-  --highlight-1: #8316B9;
-  --highlight-2: #2D2187;
-}
-
-/* ========================================== /
-  Title Styling - 22/09/2024 - 01:28:29
-/ ========================================== */
-#home-title {
+#center_piece {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+
 }
 
-#name-title {
-  display: flex;
-  flex-grow: 3;
-  justify-content: center;
-  font-size: 5rem;
-}
-
-/* ========================================== /
-  Main Logo Styling - 06/08/2024 - 22:49:57
-/ ========================================== */
-#pfp-logo {
-  max-height: 250px;
-  border-radius: 150px;
-  background-color: purple;
-  outline: 5px solid black;
-  margin: 1rem;
-}
-
-/* ========================================== /
-  Basic Styling - 18/09/2024 - 21:32:11
-/ ========================================== */
-body{
-  background-color: var(--background-colour);
-  color: var(--highlight-1);
-  padding: 1rem;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  text-decoration: underline;
-}
-
-h1 {
-  font-size: 3rem;  /* Bigger than default */
-}
-
-h2 {
-  font-size: 2.5rem;
-}
-
-h3 {
-  font-size: 2rem;
-}
-
-h4 {
-  font-size: 1.75rem;
-}
-
-h5 {
-  font-size: 1.5rem;
-}
-
-h6 {
-  font-size: 1.25rem;
+#dev_logo {
+  width: 25%;
+  border-radius: 75%;
+  border: 0.5rem solid purple;
 }
