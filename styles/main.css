@@ -1,3 +1,7 @@
+body {
+  background: #363636;
+}
+
 #center_piece {
   display: flex;
   
