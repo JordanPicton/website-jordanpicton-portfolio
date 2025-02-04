@@ -49,6 +49,12 @@ main {
   margin: 0.5rem;
 }
 
+.link-icon {
+  border-radius: 100px;
+  padding: 8px;
+  background-color: rgba(100, 100, 255, 0.15);
+}
+
 .link-icon:hover {
   background-color: white;
 }
