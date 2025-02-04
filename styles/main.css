@@ -1,3 +1,4 @@
+/* Global Styling */
 body {
   background-image: url(../media/images/backgrounds/jordan-background.webp);
   background-repeat: no-repeat;
@@ -38,10 +39,19 @@ main {
   justify-content: space-between;
 }
 
+/* Classes & ID Styling */
 #logo {
   /* These units of measurement need double checking */
   height: 50%;
   border-radius: 50%;
   border: purple solid 0.5rem;
   margin: 0.5rem;
+}
+
+.link-icon:hover {
+  background-color: white;
+}
+
+#copyright {
+  color: white;
 }
