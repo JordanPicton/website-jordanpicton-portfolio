@@ -14,7 +14,11 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 5rem;
-  color: purple;
+  color: rgb(208, 143, 214);
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 16px;
+  border-radius: 10px;
+  border: rgb(208, 143, 214) solid 3px;
 }
 
 h3 {
@@ -51,11 +55,11 @@ main {
 .link-icon {
   border-radius: 100px;
   padding: 8px;
-  background-color: rgba(100, 100, 255, 0.15);
+  background-color: rgba(100, 160, 100, 0.15);
 }
 
 .link-icon:hover {
-  background-color: white;
+  background-color: rgba(0, 100, 0, 0.4);
 }
 
 #copyright, #copyright>a {
