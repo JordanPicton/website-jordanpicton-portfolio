@@ -1,3 +1,14 @@
+/* ==================================================== /
+# Project Title: Portfolio Website
+# Started:  26/05/2025 19:06
+# Author: Jordan
+/ ==================================================== */
+
+/*  ;                Variables Core Style                 */
+:root {
+  --main-background: rgba(32, 32, 32, 0.3);
+}
+
 /* Global Styling */
 body {
   background-image: url(../media/images/backgrounds/canada.webp);
