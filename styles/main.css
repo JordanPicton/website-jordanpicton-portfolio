@@ -6,7 +6,12 @@
 
 /*  ;                Variables Core Style                 */
 :root {
-  --main-background: rgba(32, 32, 32, 0.3);
+  --main-background: rgba(22, 22, 22, 0.4);
+  --image-colour-background: rgba(211, 68, 255, 0.2);
+  --hover-background: rgba(211, 68, 255, 0.3);
+  --main-colour: rgb(208, 143,214);
+  --second-colour: rgb(105, 16, 156);
+  --white: #FFFFFF;
 }
 
 /* Global Styling */
