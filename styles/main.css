@@ -32,8 +32,7 @@ header {
 }
 
 nav {
-  /* background-color: orange; */
-  max-height: 10vh;
+  background-color: orange;
   width: 100%;
   display: flex;
   align-items: center;
