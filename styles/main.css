@@ -92,6 +92,11 @@ footer {
 #main-content {
   width: 90%;
   margin: auto;
+  background-color: var(--main-background);
+  padding: 1rem;
+  border-radius: 1rem;
+  box-sizing: border-box;
+  outline: 3px var(--second-colour) solid;
 }
 
 #my-logo {
