@@ -65,6 +65,7 @@ footer {
 ~ ==================================================== */
 #nav-logo-link {
   height: 10vh;
+  margin: 10px;
   border-radius: 5rem;
   box-sizing: border-box;
   outline: var(--second-colour) 3px solid;
