@@ -43,6 +43,9 @@ h1 {
   margin: 0 1rem;
   font-size: 4rem;
   color: var(--main-colour);
+  text-transform: uppercase;
+  text-align: center;
+  flex-grow: 1;
 }
 
 /* main {
