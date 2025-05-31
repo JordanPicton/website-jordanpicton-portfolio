@@ -52,8 +52,6 @@ footer {
   display: flex;
   width: 100vw;
   background-color: var(--main-background);
-  max-height: 3.5vh;
-  display: flex;
   justify-content: space-around;
 }
 
