@@ -30,7 +30,6 @@ header {
   box-sizing: border-box;
   outline: var(--second-colour) 3px solid;
   background-color: var(--main-background);
-  margin-bottom: 3px;
 }
 
 nav {
@@ -48,9 +47,10 @@ h1 {
   flex-grow: 1;
 }
 
-/* main {
-  
-} */
+main {
+  margin: 1rem 0;
+  background-color: orange;
+}
 
 footer {
   display: flex;
