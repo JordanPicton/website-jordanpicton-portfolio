@@ -52,10 +52,13 @@ main {
 }
 
 footer {
+  left: 0;
+  bottom: 0;
   display: flex;
   width: 100vw;
   background-color: var(--main-background);
   justify-content: space-around;
+  position: fixed;
 }
 
 /* ~ ====================================================
