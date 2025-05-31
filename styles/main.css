@@ -30,6 +30,7 @@ header {
   box-sizing: border-box;
   outline: var(--second-colour) 3px solid;
   background-color: var(--main-background);
+  margin-bottom: 3px;
 }
 
 nav {
