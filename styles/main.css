@@ -150,6 +150,9 @@ footer {
   width: 100%;
   background-color: var(--dark-background);
   border-radius: 1rem;
+  outline: var(--second-colour) 3px solid;
+  box-sizing: border-box;
+  padding: 0 1rem 4px 1rem;
 }
 
 #current {
