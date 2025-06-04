@@ -146,7 +146,8 @@ footer {
   display: flex;
   margin: 1rem auto;
   width: 100%;
-  background-color: var(--main-background);
+  background-color: var(--dark-background);
+  border-radius: 1rem;
 }
 
 #current {
