@@ -166,4 +166,13 @@ footer {
   margin-right: 0.5rem;
   color: var(--main-colour);
 }
+
+/* ~ ====================================================
+~                               Reusable CSS
+~                                     Section
+~ ==================================================== */
+/*--- Emphasis Styling ---*/
+.emp {
+  font-style: italic;
+  font-weight: 900;
 }
