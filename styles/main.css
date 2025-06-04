@@ -120,4 +120,17 @@ footer {
 
 #top-two {
   display: flex;
+  margin: 1rem auto;
+  width: 100%;
+  background-color: var(--main-background);
+}
+
+#current {
+  width: 50%;
+  margin-left: 0.5rem;
+}
+
+#updated {
+  width: 50%;
+  margin-right: 0.5rem;
 }
