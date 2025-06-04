@@ -118,6 +118,30 @@ footer {
   border: 3px solid var(--second-colour);
 }
 
+#links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem auto 0 auto;
+  background-color: var(--dark-background);
+  width: 20%;
+  padding: 0.25rem;
+  border-radius: 1rem;
+  outline: 3px var(--main-colour) solid;
+  box-sizing: border-box;
+}
+
+.link-icon {
+  border-radius: 100px;
+  padding: 1px;
+  margin: 0 4px;
+  background-color: var(--image-colour-background);
+}
+
+.link-icon:hover {
+  background-color: var(--hover-background);
+}
+
 #top-two {
   display: flex;
   margin: 1rem auto;
