@@ -110,6 +110,7 @@ footer {
 }
 
 #my-logo {
+  margin: auto;
   width: 350px;
   border-radius: 15rem;
   border: 3px solid var(--second-colour);
