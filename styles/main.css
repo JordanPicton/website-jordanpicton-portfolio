@@ -12,6 +12,7 @@
   --main-colour: rgb(208, 143,214);
   --second-colour: rgb(105, 16, 156);
   --white: #FFFFFF;
+  --dark-background: rgba(22, 22, 22, 0.7);
 }
 
 /*--- General Styling ---*/
