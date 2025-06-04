@@ -46,6 +46,13 @@ h1 {
   flex-grow: 1;
 }
 
+h2 {
+  color: var(--second-colour);
+  font-size: 3.2rem;
+  text-decoration: underline;
+  text-align: center;
+}
+
 main {
   margin: 1rem 0;
 }
