@@ -176,7 +176,7 @@ footer {
   border-radius: 1rem;
   outline: var(--second-colour) 3px solid;
   box-sizing: border-box;
-  padding: 0 1rem 4px 1rem;
+  padding: 1rem;
 }
 
 #current {
