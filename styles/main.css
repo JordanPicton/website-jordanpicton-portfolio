@@ -167,6 +167,33 @@ footer {
   color: var(--main-colour);
 }
 
+/*--- Projects Section ---*/
+#projects {
+  background-color: var(--dark-background);
+  outline: var(--main-colour) 3px solid;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+
+#project-items {
+  display: flex;
+  padding: 1rem;
+}
+
+.project-item {
+  width: 25%;
+  margin: auto;
+  background-color: red;
+  outline: var(--second-colour) 3px solid;
+  box-sizing: border-box;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+
+.project-item-img {
+  width: 100%;
+}
+
 /* ~ ====================================================
 ~                               Reusable CSS
 ~                                     Section
