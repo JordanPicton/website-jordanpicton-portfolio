@@ -16,6 +16,10 @@
 }
 
 /*--- General Styling ---*/
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-image: url(../media/images/backgrounds/canada.webp);
   background-repeat: no-repeat;
