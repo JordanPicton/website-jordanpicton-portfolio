@@ -67,6 +67,22 @@ main {
   margin: 1rem 0;
 }
 
+a {
+  text-decoration: underline;
+  font-weight: 700;
+  cursor: pointer;
+  font-style: italic;
+}
+
+a:hover{
+  cursor: pointer;
+  color: var(--second-colour);
+}
+
+a:visited {
+  color: var(--white);
+}
+
 footer {
   left: 0;
   bottom: 0;
