@@ -216,6 +216,12 @@ footer {
 
 .project-item-img {
   width: 100%;
+  border-radius: 1rem;
+  transition: 500ms ease-in-out;
+}
+
+.project-item:hover img {
+  transform: scale(95%);
 }
 
 /* ~ ====================================================
