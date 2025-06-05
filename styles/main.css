@@ -207,7 +207,6 @@ footer {
 .project-item {
   width: 25%;
   margin: auto;
-  background-color: red;
   outline: var(--second-colour) 3px solid;
   box-sizing: border-box;
   border-radius: 1rem;
