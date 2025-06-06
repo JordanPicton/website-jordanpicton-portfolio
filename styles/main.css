@@ -83,6 +83,10 @@ a:visited {
   color: var(--white);
 }
 
+#bottom-space {
+  height: 20px;
+}
+
 footer {
   left: 0;
   bottom: 0;
