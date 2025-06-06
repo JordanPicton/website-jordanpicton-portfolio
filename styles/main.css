@@ -205,27 +205,42 @@ footer {
   color: var(--main-colour);
 }
 
-/*--- Projects Section ---*/
-#projects {
+/*--- Section Reusables ---*/
+.parent-section {
   background-color: var(--dark-background);
-  outline: var(--main-colour) 3px solid;
   box-sizing: border-box;
   border-radius: 1rem;
 }
 
-.project-items {
+.section-items {
   display: flex;
   padding: 1rem;
 }
 
-.project-item {
-  width: 19%;
+.section-item {
   margin: auto;
-  outline: var(--second-colour) 3px solid;
   box-sizing: border-box;
   border-radius: 1rem;
   padding: 0.5rem;
   color: var(--main-colour);
+}
+
+.section-item-img {
+  width: 100%;
+  display: block;
+  border-radius: 1rem;
+  transition: 700ms ease-in-out;
+  margin-bottom: 0.6rem;
+}
+
+/*--- Projects Section ---*/
+#projects {
+  outline: var(--main-colour) 3px solid;
+}
+
+.project-item {
+  width: 19%;
+  outline: var(--second-colour) 3px solid;
 }
 
 .project-img-overlay {
@@ -234,13 +249,7 @@ footer {
 }
 
 .project-item-img {
-  width: 100%;
-  max-height: 270px; /*--- This may need to be looked into a little more ---*/
-  height: auto;
-  display: block;
-  border-radius: 1rem;
-  transition: 700ms ease-in-out;
-  margin-bottom: 0.6rem;
+  max-height: 30vh;
 }
 
 .overlay {
