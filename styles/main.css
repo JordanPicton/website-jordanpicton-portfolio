@@ -139,6 +139,14 @@ footer {
   outline: 3px var(--second-colour) solid;
 }
 
+#main-content>h2 {
+  font-weight: 900;
+  background: linear-gradient(to bottom, var(--dark-background) 80%, rgba(22, 22, 22, 0));
+  border-radius: 1rem 1rem 0 0;
+  padding-bottom: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
 #my-logo {
   margin: auto;
   width: 350px;
