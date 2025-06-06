@@ -275,6 +275,27 @@ footer {
   text-align: center;
 }
 
+/*--- Tech Stack Section ---*/
+#tech-stack {
+  outline: var(--second-colour) 3px solid;
+  margin-top: 1rem;
+}
+
+#tech-stack>p {
+  text-align: center;
+  color: var(--main-colour);
+  padding: 0.8rem 0;
+}
+
+.tech-item {
+  width: 8%;
+  outline: var(--second-colour) 3px solid;
+}
+
+.tech-item-img {
+  max-height: 10vh;
+}
+
 /* ~ ====================================================
 ~                                       Footer
 ~                                     Section
