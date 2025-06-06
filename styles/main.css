@@ -161,6 +161,7 @@ footer {
   padding: 1px;
   margin: 0 4px;
   background-color: var(--image-colour-background);
+  transition: 500ms ease;
 }
 
 .link-icon:hover {
