@@ -215,14 +215,50 @@ footer {
   color: var(--main-colour);
 }
 
+.project-img-overlay {
+  position: relative;
+  width: 50%;
+}
+
 .project-item-img {
   width: 100%;
+  height: auto;
+  display: block;
   border-radius: 1rem;
-  transition: 500ms ease-in-out;
+  transition: 700ms ease-in-out;
+  margin-bottom: 0.6rem;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  height: 30%;
+  width: 100%;
+  opacity: 0;
+  transition: 500ms ease;
+  background-color: var(--dark-background);
+  border-radius: 1rem;
 }
 
 .project-item:hover img {
   transform: scale(95%);
+}
+
+.project-img-overlay:hover  .overlay{
+  opacity: 1;
+  height: 100%;
+}
+
+.img-overlay-txt {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 /* ~ ====================================================
