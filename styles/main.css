@@ -342,7 +342,145 @@ footer {
 }
 
 .tech-item-img {
-  max-height: 10vh;
+  max-height: 13vh;
+}
+
+.tech-progress {
+  width: 100%;
+  background-color: var(--gray);
+  border-radius: 1rem;
+  padding: 2px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+
+.tech-progress-fill {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  border-radius: 1rem;
+
+  transition: width 500ms ease-in-out;
+}
+
+.five {
+  width: 5%;
+  background-color: var(--5-percent);
+}
+
+.ten {
+  width: 10%;
+  background-color: var(--10-percent);
+}
+
+.fifteen {
+  width: 15%;
+  background-color: var(--15-percent);
+}
+
+.twenty {
+  width: 20%;
+  background-color: var(--20-percent);
+}
+
+.twenty-five {
+  width: 25%;
+  background-color: var(--25-percent);
+}
+
+.thirty {
+  width: 30%;
+  background-color: var(--30-percent);
+}
+
+.thirty-five {
+  width: 35%;
+  background-color: var(--35-percent);
+}
+
+.forty {
+  width: 40%;
+  background-color: var(--40-percent);
+}
+
+.forty-five {
+  width: 45%;
+  background-color: var(--45-percent);
+}
+
+.fifty {
+  width: 50%;
+  background-color: var(--50-percent);
+}
+
+.fifty-five {
+  width: 55%;
+  background-color: var(--55-percent);
+}
+
+.sixty {
+  width: 60%;
+  background-color: var(--60-percent);
+}
+
+.sixty-five {
+  width: 65%;
+  background-color: var(--65-percent);
+}
+
+.seventy {
+  width: 70%;
+  background-color: var(--70-percent);
+}
+
+.seventy-five {
+  width: 75%;
+  background-color: var(--75-percent);
+}
+
+.eighty {
+  width: 80%;
+  background-color: var(--80-percent);
+}
+
+.eighty-five {
+  width: 85%;
+  background-color: var(--85-percent);
+}
+
+.ninety {
+  width: 90%;
+  background-color: var(--90-percent);
+}
+
+.ninety-five {
+  width: 95%;
+  background-color: var(--95-percent);
+}
+
+.hundred {
+  width: 100%;
+  background-color: var(--100-percent);
+}
+
+.five,
+.ten,
+.fifteen,
+.twenty,
+.twenty-five,
+.thirty,
+.thirty-five,
+.forty {
+  color: var(--white);
+}
+
+.forty-five, .fifty, .fifty-five, .sixty, .sixty-five, .seventy, .seventy-five, .eighty, .eighty-five, .ninety, .ninety-five, .hundred {
+  color: var(--black)
+}
+
+.tech-progress-text {
+  margin-left: 6px;
+  width: 100%;
+  font-weight: 700;
 }
 
 /* ~ ====================================================
