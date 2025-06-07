@@ -333,8 +333,7 @@ footer {
 }
 
 .tech-item {
-  width: 8%;
-  outline: var(--second-colour) 3px solid;
+  width: 10%;
 }
 
 .tech-item-img {
