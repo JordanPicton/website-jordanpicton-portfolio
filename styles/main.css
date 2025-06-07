@@ -12,7 +12,31 @@
   --main-colour: rgb(208, 143, 214);
   --second-colour: rgb(105, 16, 156);
   --white: #FFFFFF;
+  --gray: #525252;
+  --black: #000;
   --dark-background: rgba(22, 22, 22, 0.7);
+
+  /*--- Progress Bar Percentages ---*/
+  --5-percent: #FF0000;
+  --10-percent: #F91A00;
+  --15-percent: #F33400;
+  --20-percent: #ED4E00;
+  --25-percent: #E76800;
+  --30-percent: #E18200;
+  --35-percent: #DB9C00;
+  --40-percent: #D5B600;
+  --45-percent: #CFCF00;
+  --50-percent: #C3E300;
+  --55-percent: #B7F700;
+  --60-percent: #9EFF00;
+  --65-percent: #84FF00;
+  --70-percent: #6AFF00;
+  --75-percent: #50FF00;
+  --80-percent: #36FF00;
+  --85-percent: #1CFF00;
+  --90-percent: #08FF00;
+  --95-percent: #04FF08;
+  --100-percent: #00FF00;
 }
 
 /*--- General Styling ---*/
