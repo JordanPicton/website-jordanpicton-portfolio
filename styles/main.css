@@ -334,6 +334,7 @@ footer {
 
 .tech-item {
   width: 10%;
+  outline: var(--main-colour) 3px solid;
 }
 
 .tech-item-img {
