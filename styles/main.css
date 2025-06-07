@@ -96,7 +96,7 @@ a {
   font-style: italic;
 }
 
-a:hover{
+a:hover {
   cursor: pointer;
   color: var(--second-colour);
 }
