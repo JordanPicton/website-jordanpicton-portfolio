@@ -140,7 +140,7 @@ footer {
   rotate: 360deg;
 }
 
-#nav-logo-link > img {
+#nav-logo-link>img {
   height: 100%;
   border-radius: 5rem;
 }
@@ -290,7 +290,7 @@ footer {
   transform: scale(95%);
 }
 
-.project-img-overlay:hover  .overlay{
+.project-img-overlay:hover .overlay {
   opacity: 1;
   height: 100%;
 }
@@ -330,7 +330,7 @@ footer {
 /* ~ ====================================================
 ~                                       Footer
 ~                                     Section
-~ ==================================================== */ 
+~ ==================================================== */
 footer p {
   color: var(--main-colour);
   font-weight: 600;
