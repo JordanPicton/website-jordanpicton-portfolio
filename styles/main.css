@@ -337,6 +337,10 @@ footer {
   outline: var(--main-colour) 3px solid;
 }
 
+.tech-item>h4 {
+  font-weight: 500;
+}
+
 .tech-item-img {
   max-height: 10vh;
 }
