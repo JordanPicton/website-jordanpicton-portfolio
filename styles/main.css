@@ -483,6 +483,36 @@ footer {
 }
 
 /* ~ ====================================================
+~                                        FAQ
+~                                     Section
+~ ==================================================== */
+#faq-section {
+  outline: var(--main-colour) 3px solid;
+  margin-top: 1rem;
+  color: var(--main-colour);
+}
+
+.faq-item {
+  padding: 1rem;
+  cursor: pointer;
+  border-bottom: 3px var(--gray) solid;
+  border-radius: 1rem;
+}
+
+.faq-item:last-of-type {
+  margin-bottom: 0.5rem;
+}
+
+.faq-item:hover>summary {
+  text-decoration: underline;
+}
+
+summary {
+  font-size: 1.5rem;
+  padding-bottom: 0.3rem;
+}
+
+/* ~ ====================================================
 ~                                       Footer
 ~                                     Section
 ~ ==================================================== */
