@@ -154,7 +154,7 @@ footer {
 }
 
 .scroller-bar {
-  height: 8px;
+  height: 100%;
   background: var(--main-colour);
   width: 0%;
 }
