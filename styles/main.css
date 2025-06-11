@@ -474,7 +474,18 @@ footer {
   color: var(--white);
 }
 
-.forty-five, .fifty, .fifty-five, .sixty, .sixty-five, .seventy, .seventy-five, .eighty, .eighty-five, .ninety, .ninety-five, .hundred {
+.forty-five,
+.fifty,
+.fifty-five,
+.sixty,
+.sixty-five,
+.seventy,
+.seventy-five,
+.eighty,
+.eighty-five,
+.ninety,
+.ninety-five,
+.hundred {
   color: var(--black)
 }
 
