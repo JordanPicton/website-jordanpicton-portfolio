@@ -276,17 +276,20 @@ footer {
   outline: var(--main-colour) 3px solid;
 }
 
-.project-item {
+.project-item,
+.aproject-item {
   width: 19%;
   outline: var(--second-colour) 3px solid;
 }
 
-.project-img-overlay {
+.project-img-overlay,
+.aproject-img-overlay {
   position: relative;
   width: 50%;
 }
 
-.project-item-img {
+.project-item-img,
+.aproject-item-img {
   max-height: 30vh;
 }
 
@@ -302,11 +305,13 @@ footer {
   border-radius: 1rem;
 }
 
-.project-item:hover img {
+.project-item:hover img,
+.aproject-item:hover img {
   transform: scale(95%);
 }
 
-.project-img-overlay:hover .overlay {
+.project-img-overlay:hover .overlay,
+.aproject-img-overlay:hover .overlay {
   opacity: 1;
   height: 100%;
 }
@@ -493,6 +498,15 @@ footer {
   margin-left: 6px;
   width: 100%;
   font-weight: 700;
+}
+
+/* ~ ====================================================
+~                               Archived Projects
+~                                        Section
+~ ==================================================== */
+#archived-projects {
+  outline: solid var(--main-colour);
+  margin-top: 1rem;
 }
 
 /* ~ ====================================================
