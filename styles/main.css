@@ -549,6 +549,32 @@ footer p {
   font-style: italic;
 }
 
+#web-update {
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+  color: #0d0907;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 1px #d18dff, 0 0 3px #d18dff, 0 0 5px #dd2dd4, 0 0 8px #dd2dd4, 0 0 10px #dd2dd4;
+  }
+  to {
+    text-shadow: 0 0 3px #d18dff, 0 0 5px #ff4de1, 0 0 8px #ff4de1, 0 0 10px #ff4de1, 0 0 12px #ff4de1;
+  }
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 1px #d18dff, 0 0 3px #d18dff, 0 0 5px #dd2dd4, 0 0 8px #dd2dd4, 0 0 10px #dd2dd4;
+  }
+  to {
+    text-shadow: 0 0 3px #d18dff, 0 0 5px #ff4de1, 0 0 8px #ff4de1, 0 0 10px #ff4de1, 0 0 12px #ff4de1;
+  }
+}
+
 /* ~ ====================================================
 ~                               Reusable CSS
 ~                                     Section
