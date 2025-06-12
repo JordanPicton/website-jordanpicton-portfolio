@@ -514,7 +514,7 @@ footer {
 ~                                     Section
 ~ ==================================================== */
 #faq-section {
-  outline: var(--main-colour) 3px solid;
+  outline: var(--second-colour) 3px solid;
   margin-top: 1rem;
   color: var(--main-colour);
 }
