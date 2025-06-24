@@ -105,10 +105,6 @@ a:visited {
   color: var(--white);
 }
 
-#bottom-space {
-  height: 20px;
-}
-
 footer {
   left: 0;
   bottom: 0;
@@ -143,22 +139,6 @@ footer {
 #nav-logo-link>img {
   height: 100%;
   border-radius: 5rem;
-}
-
-#scroller-container {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 100%;
-  height: 8px;
-  background-color: var(--second-colour);
-  z-index: 1000;
-}
-
-.scroller-bar {
-  height: 100%;
-  background: var(--main-colour);
-  width: 0%;
 }
 
 /* ~ ====================================================
@@ -576,10 +556,31 @@ figcaption {
 ~                                          Footer
 ~                                        Section
 ~ ==================================================== */
+#scroller-container {
+  position: -webkit-sticky;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 8px;
+  background-color: var(--second-colour);
+  z-index: 1000;
+}
+
+.scroller-bar {
+  height: 100%;
+  background: var(--main-colour);
+  width: 0vw;
+}
+
+#bottom-space {
+  height: 20px;
+}
+
 footer p {
   color: var(--main-colour);
   font-weight: 600;
   font-style: italic;
+  padding-bottom: 0.6rem;
 }
 
 #web-update {
