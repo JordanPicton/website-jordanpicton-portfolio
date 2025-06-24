@@ -551,6 +551,11 @@ summary {
   color: var(--main-colour);
 }
 
+.recommended-item {
+  outline: var(--second-colour) 3px solid;
+  margin: 1rem;
+}
+
 /* ~ ====================================================
 ~                                          Footer
 ~                                        Section
