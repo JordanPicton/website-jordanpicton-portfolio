@@ -556,6 +556,10 @@ summary {
   margin: 1rem;
 }
 
+.rproject-img-overlay>img {
+  transition: all 1s ease;
+}
+
 /* ~ ====================================================
 ~                                          Footer
 ~                                        Section
