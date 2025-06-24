@@ -568,6 +568,10 @@ a:hover>figcaption {
   color: var(--main-colour);
 }
 
+figcaption {
+  text-align: center;
+}
+
 /* ~ ====================================================
 ~                                          Footer
 ~                                        Section
