@@ -564,6 +564,10 @@ summary {
   max-width: 200px;
 }
 
+a:hover>figcaption {
+  color: var(--main-colour);
+}
+
 /* ~ ====================================================
 ~                                          Footer
 ~                                        Section
