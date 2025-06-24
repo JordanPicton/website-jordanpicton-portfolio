@@ -541,8 +541,19 @@ summary {
 }
 
 /* ~ ====================================================
-~                                       Footer
-~                                     Section
+~                                 Recommended
+~                                       Section
+~ ==================================================== */
+#recommended {
+  margin-top: 1rem;
+  outline: 3px solid var(--main-colour);
+  padding: 0 1rem;
+  color: var(--main-colour);
+}
+
+/* ~ ====================================================
+~                                          Footer
+~                                        Section
 ~ ==================================================== */
 footer p {
   color: var(--main-colour);
