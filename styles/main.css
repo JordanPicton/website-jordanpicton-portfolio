@@ -560,6 +560,10 @@ summary {
   transition: all 1s ease;
 }
 
+.recommended-item>a>img {
+  max-width: 200px;
+}
+
 /* ~ ====================================================
 ~                                          Footer
 ~                                        Section
