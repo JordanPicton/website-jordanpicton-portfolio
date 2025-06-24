@@ -306,7 +306,8 @@ footer {
 }
 
 .project-item:hover img,
-.aproject-item:hover img {
+.aproject-item:hover img,
+.recommended-item:hover img {
   transform: scale(95%);
 }
 
