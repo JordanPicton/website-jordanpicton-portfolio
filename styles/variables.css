@@ -1,0 +1,41 @@
+:root {
+  /*--- White Colour Codes ---*/
+  --white-one-white: #EDEFEF;
+  --rose-white: #FFFAFA;
+  --white-dove: #F0EFE7;
+  --titan-white: #EEEEFF;
+  --greek-vanilla: #F0EBE3;
+
+  /*--- Black Colour Codes ---*/
+  --parisian-night: #323441;
+  --cool-black: #151922;
+  --crow: #0D0907;
+  --black-chestnut: #252321;
+  --basalt-black: #4D423E;
+  --black-eel: #463E3F;
+  --slate: #26282A;
+  --leather: #0B0705;
+  --black-grain: #2C2C2A;
+  --night-shadow: #1C1C1C;
+
+  /*--- Grey Colour Codes ---*/
+  --dim-grey: #696969;
+  --grey-goose: #D1D0CE;
+  --marengo: #4C5866;
+  --nickel: #727472;
+  --silver-chalice: #ACACAC;
+
+/*--- Red Colour Codes ---*/
+  --desire: #EA3C53;
+  --flame-red: #E25822;
+  --sangria: #5E1914;
+  --prismatic-red: #D03D33;
+  --candy-apple: #FF0800;
+
+  /*--- Blue Colour Codes ---*/
+  --boeing-blue: #0039A6;
+  --maya-blue: #73C2FB;
+  --sapphire-blue: #0F52BA;
+  --yale-blue: #00356B;
+  --everton-blue: #003399;
+}
