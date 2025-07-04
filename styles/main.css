@@ -89,6 +89,12 @@ main {
   margin: 1rem 0;
 }
 
+summary {
+  font-size: 1.5rem;
+  padding-bottom: 0.3rem;
+  cursor: pointer;
+}
+
 a {
   text-decoration: underline;
   font-weight: 700;
@@ -502,7 +508,6 @@ footer {
 
 .faq-item {
   padding: 1rem;
-  cursor: pointer;
   border-bottom: 3px var(--gray) solid;
   border-radius: 1rem;
 }
@@ -513,11 +518,6 @@ footer {
 
 .faq-item:hover>summary {
   text-decoration: underline;
-}
-
-summary {
-  font-size: 1.5rem;
-  padding-bottom: 0.3rem;
 }
 
 /* ~ ====================================================
