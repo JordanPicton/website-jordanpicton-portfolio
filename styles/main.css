@@ -573,6 +573,11 @@ footer {
   color: var(--grey-goose);
 }
 
+/*--- Red Section Styling ---*/
+#red.colour-sect {
+  background-color: var(--marengo);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
