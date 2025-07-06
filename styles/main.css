@@ -578,6 +578,9 @@ footer {
   background-color: var(--marengo);
 }
 
+#red>summary {
+  color: var(--candy-apple);
+}
 
 /* ~ ====================================================
 ~                               Archived Projects
