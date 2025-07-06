@@ -618,6 +618,14 @@ footer {
   color: var(--imperial-purple);
 }
 
+/*--- Pink Section Styling ---*/
+#pink.colour-sect {
+  background-color: var(--marengo);
+}
+
+#pink>summary {
+  color: var(--vanilla-ice);
+}
 
 /* ~ ====================================================
 ~                               Archived Projects
