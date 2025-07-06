@@ -564,6 +564,11 @@ footer {
   color: var(--raven);
 }
 
+/*--- Grey Section Styling ---*/
+#grey.colour-sect {
+  background-color: var(--raven);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
