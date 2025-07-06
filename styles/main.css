@@ -569,6 +569,10 @@ footer {
   background-color: var(--raven);
 }
 
+#grey>summary {
+  color: var(--grey-goose);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
