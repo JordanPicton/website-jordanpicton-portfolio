@@ -516,6 +516,11 @@ footer {
   outline: var(--second-colour) 3px solid;
 }
 
+/*--- Colour Section ---*/
+.colour-sect {
+  padding: 1rem 0 1rem 1rem;
+  border-radius: 1rem;
+}
 
 /* ~ ====================================================
 ~                               Archived Projects
