@@ -582,6 +582,16 @@ footer {
   color: var(--candy-apple);
 }
 
+/*--- Green Section Styling ---*/
+#green.colour-sect {
+  background-color: var(--marengo);
+}
+
+#green>summary {
+  color: var(--irish-green);
+}
+
+
 /* ~ ====================================================
 ~                               Archived Projects
 ~                                        Section
