@@ -500,6 +500,10 @@ footer {
   padding: 1rem;
 }
 
+#qj-links {
+  display: flex;
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
