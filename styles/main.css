@@ -559,6 +559,11 @@ footer {
   color: var(--white-on-white)
 }
 
+#white .colour-item {
+  outline: solid var(--raven) 1px;
+  color: var(--raven);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
