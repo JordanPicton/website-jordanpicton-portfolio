@@ -550,6 +550,11 @@ footer {
   color: var(--bone);
 }
 
+/*--- White Section Styling ---*/
+#white.colour-sect {
+  background-color: var(--raven);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
