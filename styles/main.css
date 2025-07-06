@@ -303,7 +303,7 @@ footer {
 }
 
 .img-overlay-txt {
-  color: white;
+  color: var(--daisy);
   position: absolute;
   top: 50%;
   left: 50%;
