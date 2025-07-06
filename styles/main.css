@@ -486,6 +486,14 @@ footer {
   font-weight: 700;
 }
 
+/*--- Brief Section ---*/
+#brief {
+  outline: var(--second-colour) 3px solid;
+  padding: 1rem;
+  color: var(--main-colour);
+}
+
+
 /* ~ ====================================================
 ~                               Archived Projects
 ~                                        Section
