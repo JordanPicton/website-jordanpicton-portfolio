@@ -600,6 +600,15 @@ footer {
   color: var(--maya-blue);
 }
 
+/*--- Orange Section Styling ---*/
+#orange.colour-sect {
+  background-color: var(--marengo);
+}
+
+#orange>summary {
+  color: var(--aesthetic-orange);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
