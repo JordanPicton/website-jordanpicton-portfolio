@@ -493,6 +493,13 @@ footer {
   color: var(--main-colour);
 }
 
+/*--- Quick Jump Section ---*/
+#quick-jump {
+  outline: var(--main-colour) 3px solid;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
