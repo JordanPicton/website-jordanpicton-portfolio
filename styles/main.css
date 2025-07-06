@@ -591,6 +591,15 @@ footer {
   color: var(--irish-green);
 }
 
+/*--- Blue Section Styling ---*/
+#blue.colour-sect {
+  background-color: var(--marengo);
+}
+
+#blue>summary {
+  color: var(--maya-blue);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
