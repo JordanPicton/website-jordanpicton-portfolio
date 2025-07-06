@@ -609,6 +609,15 @@ footer {
   color: var(--aesthetic-orange);
 }
 
+/*--- Purple Section Styling ---*/
+#purple.colour-sect {
+  background-color: var(--marengo);
+}
+
+#purple>summary {
+  color: var(--imperial-purple);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
