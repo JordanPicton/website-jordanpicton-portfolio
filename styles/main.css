@@ -522,6 +522,10 @@ footer {
   border-radius: 1rem;
 }
 
+.colour-sect:nth-child(n+2) {
+  margin-top: 1rem;
+}
+
 /* ~ ====================================================
 ~                               Archived Projects
 ~                                        Section
