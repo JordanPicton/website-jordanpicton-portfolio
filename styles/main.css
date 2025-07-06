@@ -543,6 +543,11 @@ footer {
   background-color: var(--bone);
 }
 
+#black .colour-item {
+  outline: solid var(--crow) 1px;
+  color: var(--bone);
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
