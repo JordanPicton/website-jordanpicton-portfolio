@@ -508,6 +508,14 @@ footer {
   margin: 0 1rem;
 }
 
+/*--- Colour Variables Parent Section ---*/
+#colour-variables {
+  margin-top: 1rem;
+  padding: 1rem;
+  box-sizing: border-box;
+  outline: var(--second-colour) 3px solid;
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
