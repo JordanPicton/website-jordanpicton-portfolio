@@ -555,6 +555,10 @@ footer {
   background-color: var(--raven);
 }
 
+#white>summary {
+  color: var(--white-on-white)
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
