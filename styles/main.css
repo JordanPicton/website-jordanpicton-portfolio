@@ -526,6 +526,19 @@ footer {
   margin-top: 1rem;
 }
 
+.colour-item {
+  padding: 1rem;
+  width: 99%;
+  text-align: center;
+  text-transform: capitalize;
+  margin-bottom: 3px;
+  font-weight: 500;
+  font-style: italic;
+  border-radius: 1rem;
+  box-sizing: border-box;
+}
+
+
 /* ~ ====================================================
 ~                               Archived Projects
 ~                                        Section
