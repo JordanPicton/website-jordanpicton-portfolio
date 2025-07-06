@@ -504,6 +504,10 @@ footer {
   display: flex;
 }
 
+.qj-item {
+  margin: 0 1rem;
+}
+
 
 /* ~ ====================================================
 ~                               Archived Projects
