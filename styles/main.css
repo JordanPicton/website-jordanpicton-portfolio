@@ -495,6 +495,21 @@ footer {
   color: var(--main-colour);
 }
 
+#brief>a {
+  display: block;
+  margin: auto;
+  width: 5%;
+}
+
+#insta-credit {
+  width: 100%;
+  transition: 1s ease;
+}
+
+#insta-credit:hover {
+  transform: scale(0.9);
+}
+
 /*--- Quick Jump Section ---*/
 #quick-jump {
   outline: var(--main-colour) 3px solid;
