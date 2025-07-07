@@ -604,6 +604,15 @@ footer {
   color: var(--bumblebee);
 }
 
+/*--- Brown Section Styling ---*/
+#brown.colour-sect {
+  background-color: var(--raven);
+}
+
+#brown>summary {
+  color: var(--peanut);
+}
+
 /*--- Orange Section Styling ---*/
 #orange>summary {
   color: var(--aesthetic-orange);
