@@ -615,6 +615,15 @@ footer {
   color: var(--maya-blue);
 }
 
+/*--- Yellow Section Styling ---*/
+#yellow.colour-sect {
+  background-color: var(--marengo);
+}
+
+#yellow>summary {
+  color: var(--bumblebee);
+}
+
 /*--- Orange Section Styling ---*/
 #orange.colour-sect {
   background-color: var(--marengo);
