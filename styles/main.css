@@ -537,6 +537,7 @@ footer {
 .colour-sect {
   padding: 1rem 0 1rem 1rem;
   border-radius: 1rem;
+  background-color: var(--scorpion);
 }
 
 .colour-sect:nth-child(n+2) {
@@ -574,11 +575,6 @@ footer {
   color: var(--white-on-white)
 }
 
-#white .colour-item {
-  outline: solid var(--raven) 1px;
-  color: var(--raven);
-}
-
 /*--- Grey Section Styling ---*/
 #grey.colour-sect {
   background-color: var(--raven);
@@ -589,64 +585,36 @@ footer {
 }
 
 /*--- Red Section Styling ---*/
-#red.colour-sect {
-  background-color: var(--marengo);
-}
-
 #red>summary {
   color: var(--candy-apple);
 }
 
 /*--- Green Section Styling ---*/
-#green.colour-sect {
-  background-color: var(--marengo);
-}
-
 #green>summary {
   color: var(--irish-green);
 }
 
 /*--- Blue Section Styling ---*/
-#blue.colour-sect {
-  background-color: var(--marengo);
-}
-
 #blue>summary {
   color: var(--maya-blue);
 }
 
 /*--- Yellow Section Styling ---*/
-#yellow.colour-sect {
-  background-color: var(--marengo);
-}
-
 #yellow>summary {
   color: var(--bumblebee);
 }
 
 /*--- Orange Section Styling ---*/
-#orange.colour-sect {
-  background-color: var(--marengo);
-}
-
 #orange>summary {
   color: var(--aesthetic-orange);
 }
 
 /*--- Purple Section Styling ---*/
-#purple.colour-sect {
-  background-color: var(--marengo);
-}
-
 #purple>summary {
   color: var(--imperial-purple);
 }
 
 /*--- Pink Section Styling ---*/
-#pink.colour-sect {
-  background-color: var(--marengo);
-}
-
 #pink>summary {
   color: var(--vanilla-ice);
 }
