@@ -20,6 +20,11 @@
   --natural-white: #EEECE6;
   --shadow-white: #EEF1EA;
   --bright-white: #F4F5F0;
+  --vivid-white: #F8F8F4;
+  --floral-white: #FFFAF0;
+  --white-diamond: #E7E8E2;
+  --spring: #F3F0E8;
+  --ceramic: #FCFFF9;
 
   /*--- Black Colour Codes ---*/
   --parisian-night: #323441;
@@ -42,6 +47,11 @@
   --black-rock: #010127;
   --onyx: #353839;
   --frost-black: #191C20;
+  --asphalt: #0C0404;
+  --iridium: #3D3C3A;
+  --charcoal: #36454F;
+  --oil: #3B3131;
+  --jet: #343434;
 
   /*--- Grey Colour Codes ---*/
   --dim-grey: #696969;
@@ -98,14 +108,31 @@
   --royal-orange: #FF9944;
   --vivid-orange: #FF5E0E;
 
+/*--- Brown Colour Codes ---*/
+  --mocha-mousse: #A47864;
+  --chocolate: #2E1503;
+  --peanut: #795C34;
+  --cinnamon: #652A0E;
+  --walnut: #432616;
+
   /*--- Purple Colour Codes ---*/
   --plum: #DDA0DD;
   --mulberry: #C54B8C;
   --affair: #6F4685;
   --lipstick-stain: #8E4785;
   --imperial-purple: #602F6B;
+  --true-purple: #6A0DAD;
+  --ultra-violet: #645394;
+  --pearly-purple: #B768A2;
+  --english-violet: #563C5C;
+  --purple-heart: #7442C8;
 
 /*--- Pink Colour Codes ---*/
   --vanilla-ice: #F38BB2;
   --light-hot-pink: #F7AEE8;
+  --bubblegum: #FD5DA8;
+  --barbie-pink: #E0218A;
+  --watermelon: #FC6C85;
+  --french-pink: #F64A8A;
+  --flamingo: #FC8EAC;
 }
