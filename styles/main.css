@@ -16,6 +16,9 @@
   --black: #000;
   --dark-background: rgba(22, 22, 22, 0.7);
 
+  /*--- Summary Animation ---*/
+  interpolate-size: allow-keywords;
+
   /*--- Progress Bar Percentages ---*/
   --5-percent: #FF0000;
   --10-percent: #F91A00;
@@ -87,6 +90,20 @@ h4 {
 
 main {
   margin: 1rem 0;
+}
+
+details::details-content {
+  block-size: 0;
+  overflow: hidden;
+  transition:
+    block-size 1s,
+    content-visibility 1s;
+    
+  transition-behavior: allow-discrete;
+}
+
+details[open]::details-content {
+  block-size: auto;
 }
 
 summary {
