@@ -30,6 +30,21 @@
   --pearl: #FBFCF8;
   --old-wood: #F0EEE4;
   --link-white: #ECF3F9;
+  --snow-drift: #F8FBF8;
+  --rice: #FAF5EF;
+  --powdered-sugar: #FDFCFA;
+  --milk: #FDFFF5;
+  --frost: #F4F8FF;
+  --egg-shell: #F8FEFF;
+  --winter: #F9FDFE;
+  --blanc-de-blanc: #EFEFEF;
+  --platinum: #F5F5F5;
+  --snow-white: #F0F0EC;
+  --sea-shell: #FFF5EE;
+  --parchment: #FCF5E5;
+  --porcelain: #F8FBF8;
+  --milky-white: #F3F3F3;
+  --dough: #FBFAF5;
 
   /*--- Black Colour Codes ---*/
   --parisian-night: #323441;
@@ -57,6 +72,15 @@
   --charcoal: #36454F;
   --oil: #3B3131;
   --jet: #343434;
+  --vampire-black: #0F0404;
+  --panda-black: #3C4748;
+  --chocolate: #1B1811;
+  --woodsmoke: #2B3230;
+  --metropolis: #1A1A1A;
+  --rich-black: #0A0A0A;
+  --smoky-black: #101720;
+  --black-olive: #242526;
+  --coffee-bean: #1B1B1B;
 
   /*--- Grey Colour Codes ---*/
   --dim-grey: #696969;
@@ -72,8 +96,13 @@
   --grey-wolf: #504A4B;
   --jet-grey: #616D73;
   --electric-grey: #BEC3C6;
+  --french-gray: #B4B19A;
+  --gray-dolphin: #5C5858;
+  --oxford-gray: #8391A1;
+  --gray-cloud: #B6B6B4;
+  --sonic-gray: #757575;
 
-/*--- Red Colour Codes ---*/
+  /*--- Red Colour Codes ---*/
   --desire: #EA3C53;
   --flame-red: #E25822;
   --sangria: #5E1914;
@@ -82,14 +111,38 @@
   --light-coral: #F17881;
   --fire-opal: #E7525B;
   --crimson: #D81A37;
+  --maroon: #800000;
+  --arsenal: #DB0007;
+  --raspberry: #D21F3C;
+  --bills-red: #C60C30;
+  --pastel-red: #FF6961;
+  --chili-red: #C21807;
+  --ferrari: #FF2800;
+  --apple: #A91B0D;
+  --jam: #60100B;
+  --lipstick: #9B1003;
+  --pinterest-red: #E60023;
+  --light-salmon: #FFA07A;
+  --tomato: #FF6347;
+  --rosewood: #65000B;
+  --man-utd-red: #DA291C;
+  --chestnut: #BC4749;
 
-/*--- Green Colour Codes ---*/
+  /*--- Green Colour Codes ---*/
   --shrek-green: #C4D300;
   --dollar-bill: #85BB65;
   --road-sign-green: #01735C;
   --paris-green: #50C878;
   --irish-green: #009A44;
   --green-grey: #5E716A;
+  --bottle-green: #006A4E;
+  --android-green: #32DE84;
+  --jungle-green: #29AB87;
+  --up-forest-green: #014421;
+  --medium-sea: #3CB371;
+  --hunter-green: #386641;
+  --celery: #A7C957;
+  --asparagus: #6A994E;
 
   /*--- Blue Colour Codes ---*/
   --boeing-blue: #0039A6;
@@ -103,15 +156,40 @@
   --arctic-blue: #C6E6FB;
   --dell-blue: #0076CE;
   --blue-grey: #98AFC7;
+  --ultramarine: #120A8F;
+  --ford: #2C3968;
+  --chelsea: #034694;
+  --pantone-blue: #0018A8;
+  --space-cadet: #1D2951;
+  --true-blue: #0073CF;
+  --navy: #0A1172;
+  --sky: #63C5DA;
+  --berry: #241571;
+  --cobalt: #1338BE;
+  --facebook-blue: #1877F2;
+  --air-force-blue: #00308F;
+  --tottenham-navy: #132257;
+  --neon-blue: #1E90FF;
+  --indigo-dye: #00416A;
 
-/*--- Yellow Colour Codes ---*/
---bumblebee: #FCE205;
---minion-yellow: #F5E050;
---royal-yellow: #FADA5E;
---cream: #FFFFCC;
---sunflower: #FFDA03;
+  /*--- Yellow Colour Codes ---*/
+  --bumblebee: #FCE205;
+  --minion-yellow: #F5E050;
+  --royal-yellow: #FADA5E;
+  --cream: #FFFFCC;
+  --sunflower: #FFDA03;
+  --mcdonalds: #FFC72C;
+  --real-madrid: #FEBE10;
+  --parmesan: #FDE992;
+  --macaroon: #F9E076;
+  --latte: #E7C27D;
+  --corn: #FBEC5D;
+  --school-bus: #FFD800;
+  --lemon: #FFF700;
+  --mustard: #FEDC56;
+  --pastel-yellow: #FDFD96;
 
-/*--- Orange Colour Codes ---*/
+  /*--- Orange Colour Codes ---*/
   --aesthetic-orange: #F4AB6A;
   --apricot-orange: #FBCEB1;
   --bright-orange: #E24C00;
@@ -122,13 +200,25 @@
   --dragon-fire: #FD652D;
   --pastel-orange: #FEBA4F;
   --greek-orange: #E06E04;
+  --tiger: #F96815;
+  --irish-orange: #F5883F;
+  --pumpkin: #FF7518;
+  --dusty-orange: #E27A53;
+  --spring-orange: #FD963D;
 
-/*--- Brown Colour Codes ---*/
+  /*--- Brown Colour Codes ---*/
   --mocha-mousse: #A47864;
   --chocolate: #2E1503;
   --peanut: #795C34;
   --cinnamon: #652A0E;
   --walnut: #432616;
+  --caramel: #AF6F09;
+  --mocha: #3C280D;
+  --butter-toast: #D2AD84;
+  --brown-sugar: #A17249;
+  --coffee: #6F4E37;
+  --mandys-pink: #F4C095;
+
 
   /*--- Purple Colour Codes ---*/
   --plum: #DDA0DD;
@@ -141,8 +231,13 @@
   --pearly-purple: #B768A2;
   --english-violet: #563C5C;
   --purple-heart: #7442C8;
+  --eggplant: #311432;
+  --periwinkle: #BE93D4;
+  --amethyst: #A45EE5;
+  --grape: #6F2DA8;
+  --lavender: #B57EDC;
 
-/*--- Pink Colour Codes ---*/
+  /*--- Pink Colour Codes ---*/
   --vanilla-ice: #F38BB2;
   --light-hot-pink: #F7AEE8;
   --bubblegum: #FD5DA8;
