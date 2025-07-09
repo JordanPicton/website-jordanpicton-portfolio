@@ -840,7 +840,7 @@ footer p {
   color: var(--main-colour);
   font-weight: 600;
   font-style: italic;
-  padding-bottom: 0.6rem;
+  margin: 0 0 0.6rem 0;
 }
 
 #web-update {
