@@ -767,6 +767,7 @@ footer {
 
 .faq-item {
   padding: 1rem;
+  padding-bottom: 0;
   border-bottom: 3px var(--gray) solid;
   border-radius: 1rem;
 }
