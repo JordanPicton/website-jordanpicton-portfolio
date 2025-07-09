@@ -120,13 +120,13 @@ a {
   font-style: italic;
 }
 
+a:visited {
+  color: var(--white);
+}
+
 a:hover {
   cursor: pointer;
   color: var(--second-colour);
-}
-
-a:visited {
-  color: var(--white);
 }
 
 footer {
