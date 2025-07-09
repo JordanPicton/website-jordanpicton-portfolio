@@ -542,6 +542,101 @@ footer {
 
 .qj-item {
   margin: 0 1rem;
+  box-sizing: border-box;
+  outline: 1px white solid;
+  padding: 1rem;
+  border-radius: 0.1rem;
+  transition: all ease 1s;
+}
+
+.qj-item>a {
+  color: var(--main-colour);
+}
+
+.qj-item:hover {
+  border-radius: 1rem;
+}
+
+#black-qj {
+  background-color: var(--crow);
+}
+
+#black-qj>a,
+#brown-qj>a,
+#purple-qj>a {
+  color: var(--soft-peach);
+}
+
+#black-qj>a:hover,
+#red-qj>a:hover,
+#brown-qj>a:hover {
+  color: var(--main-colour);
+}
+
+#white-qj {
+  background-color: var(--soft-peach);
+}
+
+#grey-qj {
+  background-color: var(--perfect-grey);
+}
+
+#red-qj {
+  background-color: var(--candy-apple);
+}
+
+#green-qj {
+  background-color: var(--bottle-green);
+}
+
+#blue-qj {
+  background-color: var(--maya-blue);
+}
+
+#yellow-qj {
+  background-color: var(--bumblebee);
+}
+
+#orange-qj {
+  background-color: var(--royal-orange);
+}
+
+#brown-qj {
+  background-color: var(--cinnamon);
+}
+
+#purple-qj {
+  background-color: var(--true-purple);
+}
+
+#pink-qj {
+  background-color: var(--bubblegum);
+}
+
+#pink-qj>a:hover {
+  color: var(--soft-peach);
+}
+
+#white-qj>a,
+#grey-qj>a,
+#red-qj>a,
+#green-qj>a,
+#blue-qj>a,
+#yellow-qj>a,
+#orange-qj>a,
+#purple-qj>a,
+#pink-qj>a {
+  color: var(--crow);
+}
+
+#white-qj>a:hover,
+#grey-qj>a:hover,
+#green-qj>a:hover,
+#blue-qj>a:hover,
+#yellow-qj>a:hover,
+#orange-qj>a:hover,
+#purple-qj>a:hover {
+  color: var(--mulberry);
 }
 
 /*--- Colour Variables Parent Section ---*/
