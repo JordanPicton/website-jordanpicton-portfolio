@@ -113,6 +113,10 @@ summary {
   margin-inline-start: 1rem;
 }
 
+p {
+  margin: 1em 0;
+}
+
 a {
   text-decoration: underline;
   font-weight: 700;
