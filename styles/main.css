@@ -70,7 +70,7 @@ nav {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   color: var(--main-colour);
   text-transform: uppercase;
   text-align: center;
@@ -78,14 +78,33 @@ h1 {
 }
 
 h2 {
-  color: var(--second-colour);
-  font-size: 3.2rem;
-  text-decoration: underline;
+  font-size: 2.5rem;
   text-align: center;
+}
+
+h3 {
+  font-size: 2.3rem;
 }
 
 h4 {
   text-align: center;
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.75rem;
+}
+
+h6 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+h2,
+h3,
+h4 {
+  color: var(--second-colour);
+  text-decoration: underline;
 }
 
 main {
