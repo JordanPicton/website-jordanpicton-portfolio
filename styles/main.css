@@ -117,7 +117,7 @@ details::details-content {
   transition:
     block-size 1s,
     content-visibility 1s;
-    
+
   transition-behavior: allow-discrete;
 }
 
