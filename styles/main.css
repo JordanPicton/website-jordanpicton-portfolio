@@ -56,6 +56,7 @@ body {
   max-height: 100vh;
   max-width: 100vw;
   font-family: Arial, Helvetica, sans-serif;
+  color: var(--periwinkle);
 }
 
 header {
@@ -105,9 +106,13 @@ h2,
 h3,
 h4,
 h5 {
-  color: var(--second-colour);
+  color: var(--main-colour);
   text-decoration: underline;
   text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--main-colour);
 }
 
 main {
@@ -388,7 +393,6 @@ footer {
 
 #tech-stack>p {
   text-align: center;
-  color: var(--main-colour);
   padding: 0.8rem 0;
 }
 
@@ -557,7 +561,6 @@ footer {
 #brief {
   outline: var(--second-colour) 3px solid;
   padding: 1rem;
-  color: var(--main-colour);
 }
 
 #brief>a {
