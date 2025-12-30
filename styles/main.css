@@ -69,13 +69,27 @@ nav {
   width: 100%;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+}
+
+/* ~ ====================================================
+~                                  Navigation
+~                                     Section
+~ ==================================================== */
+#nav-links {
+  display: flex;
+  flex-grow: 0;
+  margin-top: 1rem;
+  width: 100%;
+  justify-content: space-around;
 }
 
 h1 {
   font-size: 3rem;
   text-transform: uppercase;
   text-align: center;
-  flex-grow: 1;
+  flex-grow: 2;
+  max-width: 90%;
 }
 
 h2 {
@@ -177,11 +191,13 @@ footer {
 #nav-logo-link {
   height: 10vh;
   margin: 10px;
+  max-width: 10%;
   border-radius: 5rem;
   box-sizing: border-box;
   outline: var(--second-colour) 3px solid;
   background-color: var(--hover-background);
   transition: ease-in-out;
+  flex-grow: 0;
 }
 
 #nav-logo-link:hover {
