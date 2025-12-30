@@ -287,16 +287,14 @@ footer {
   padding: 1rem;
 }
 
-#current {
-  width: 50%;
-  margin-left: 0.5rem;
-  color: var(--main-colour);
-}
-
 #updated {
   width: 50%;
   margin-right: 0.5rem;
-  color: var(--main-colour);
+}
+
+#current {
+  width: 50%;
+  margin-left: 0.5rem;
 }
 
 /*--- Section Reusables ---*/
