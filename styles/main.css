@@ -328,7 +328,7 @@ footer {
 
 .project-item,
 .aproject-item {
-  width: 250px;
+  width: 300px;
   max-height: 380px;
   outline: var(--second-colour) 3px solid;
 }
