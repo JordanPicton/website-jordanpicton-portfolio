@@ -167,6 +167,7 @@ a {
 
 a:visited {
   color: var(--white);
+  transition: all ease-in-out 250ms;
 }
 
 a:hover {
