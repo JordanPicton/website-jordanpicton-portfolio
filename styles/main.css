@@ -88,6 +88,11 @@ nav {
   padding: 0.5rem 0;
   outline: var(--highlight) 3px groove;
 }
+
+.nav-link {
+  text-decoration: none;
+  font-size: 2rem;
+  font-style: normal;
 }
 
 h1 {
