@@ -173,11 +173,11 @@ a {
   font-weight: 700;
   cursor: pointer;
   font-style: italic;
+  transition: all ease-in-out 250ms;
 }
 
 a:visited {
   color: var(--white);
-  transition: all ease-in-out 250ms;
 }
 
 a:hover {
