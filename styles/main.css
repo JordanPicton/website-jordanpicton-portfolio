@@ -83,6 +83,11 @@ nav {
   margin-top: 1rem;
   width: 100%;
   justify-content: space-around;
+  background-color: var(--black);
+  border-radius: 1rem;
+  padding: 0.5rem 0;
+  outline: var(--highlight) 3px groove;
+}
 }
 
 h1 {
