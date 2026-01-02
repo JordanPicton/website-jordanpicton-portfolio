@@ -779,9 +779,14 @@ footer {
   box-sizing: border-box;
 }
 
+/*--- Below is the how to style the Summary text via {colour}>summary ---*/
 /*--- Black Section Styling ---*/
 #black.colour-sect {
   background-color: var(--bone);
+}
+
+#black>summary {
+  color: var(--night-shadow);
 }
 
 #black .colour-item {
