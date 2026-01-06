@@ -369,6 +369,12 @@ footer {
   background-color: var(--dark-background);
   box-sizing: border-box;
   border-radius: 1rem;
+  outline: var(--second-colour) 3px solid;
+}
+
+/*--- Every Other Parent Section ---*/
+.parent-section:nth-child(even) {
+    outline: var(--main-colour) 3px solid;
 }
 
 .section-items {
