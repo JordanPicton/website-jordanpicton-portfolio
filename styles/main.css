@@ -923,6 +923,38 @@ figcaption {
 }
 
 /* ~ ====================================================
+~                                       Credits
+~                                       Section
+~ ==================================================== */
+#credits {
+  margin-top: 1rem;
+  outline: 3px solid var(--second-colour);
+  padding: 0 1rem;
+  color: var(--main-colour);
+}
+
+.recommended-item {
+  outline: var(--second-colour) 3px solid;
+  margin: 1rem;
+}
+
+.rproject-img-overlay>img {
+  transition: all 1s ease;
+}
+
+.recommended-item>a>img {
+  max-width: 200px;
+}
+
+a:hover>figcaption {
+  color: var(--main-colour);
+}
+
+figcaption {
+  text-align: center;
+}
+
+/* ~ ====================================================
 ~                                          Footer
 ~                                        Section
 ~ ==================================================== */
