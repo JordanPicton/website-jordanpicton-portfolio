@@ -328,7 +328,6 @@ footer {
   width: 100%;
   background-color: var(--dark-background);
   border-radius: 1rem;
-  outline: var(--second-colour) 3px solid;
   box-sizing: border-box;
   padding: 1rem;
 }
@@ -398,10 +397,6 @@ footer {
 }
 
 /*--- Projects Section ---*/
-#projects {
-  outline: var(--second-colour) 3px solid;
-}
-
 .project-item,
 .aproject-item {
   width: 300px;
@@ -457,7 +452,6 @@ footer {
 
 /*--- Tech Stack Section ---*/
 #tech-stack {
-  outline: var(--main-colour) 3px solid;
   margin-top: 1rem;
 }
 
@@ -629,7 +623,6 @@ footer {
 
 /*--- Brief Section ---*/
 #brief {
-  outline: var(--second-colour) 3px solid;
   padding: 1rem;
 }
 
@@ -650,7 +643,6 @@ footer {
 
 /*--- Quick Jump Section ---*/
 #quick-jump {
-  outline: var(--main-colour) 3px solid;
   margin-top: 1rem;
   padding: 1rem;
 }
@@ -765,7 +757,6 @@ footer {
   margin-top: 1rem;
   padding: 1rem;
   box-sizing: border-box;
-  outline: var(--second-colour) 3px solid;
 }
 
 /*--- Colour Section ---*/
@@ -873,7 +864,6 @@ footer {
 ~                                        Section
 ~ ==================================================== */
 #archived-projects {
-  outline: solid var(--main-colour);
   margin-top: 1rem;
 }
 
@@ -882,7 +872,6 @@ footer {
 ~                                     Section
 ~ ==================================================== */
 #faq-section {
-  outline: var(--second-colour) 3px solid;
   margin-top: 1rem;
   color: var(--main-colour);
 }
@@ -908,7 +897,6 @@ footer {
 ~ ==================================================== */
 #recommended {
   margin-top: 1rem;
-  outline: 3px solid var(--main-colour);
   padding: 0 1rem;
   color: var(--main-colour);
 }
@@ -940,7 +928,6 @@ figcaption {
 ~ ==================================================== */
 #credits {
   margin-top: 1rem;
-  outline: 3px solid var(--second-colour);
   padding: 0 1rem;
   color: var(--main-colour);
 }
