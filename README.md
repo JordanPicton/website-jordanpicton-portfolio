@@ -8,7 +8,8 @@ This is a place for me to hopefully build up a strong portfolio regarding my abi
 
 ## Future Todo
  - Add a theme page to pick different colour themes.
- - Add navigation.
+ - Add language drop down.
+ - Add better navigation.
 
 ## Authors
 - [@JordanPicton](https://github.com/JordanPicton)
