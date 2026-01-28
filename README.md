@@ -10,6 +10,7 @@ This is a place for me to hopefully build up a strong portfolio regarding my abi
  - Add a theme page to pick different colour themes.
  - Add language drop down.
  - Add better navigation.
+ - Change styling a little to be better suited for Portfolio.
 
 ## Authors
 - [@JordanPicton](https://github.com/JordanPicton)
