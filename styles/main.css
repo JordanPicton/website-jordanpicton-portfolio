@@ -392,12 +392,17 @@ a:hover {
 .project-img-overlay,
 .aproject-img-overlay {
   position: relative;
-  width: 50%;
+  max-width: 50%;
 }
 
 .project-item-img,
 .aproject-item-img {
-  max-height: 30vh;
+  height: 200px;
+  max-height: 200px;
+  width: 200px;
+  max-width: 200px;
+  padding: auto;
+  margin: auto;
 }
 
 .overlay {
