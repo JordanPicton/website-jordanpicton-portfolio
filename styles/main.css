@@ -955,6 +955,7 @@ footer {
   width: 100%;
   background-color: var(--dark-background);
   justify-content: space-around;
+  align-items: center;
 }
 
 /* Note - This needs looking into as I need to redo the footer and hopefully position the scroller somewhere else. */
