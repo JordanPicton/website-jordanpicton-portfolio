@@ -456,8 +456,9 @@ a:hover {
   outline: var(--second-colour) 3px solid;
 }
 
-.tech-item>h4 {
-  font-weight: 500;
+.tech-item:hover {
+  background-color: rgba(102, 102, 102, 0.356);
+  transition: all ease-in-out 200ms;
 }
 
 .tech-item-img {
