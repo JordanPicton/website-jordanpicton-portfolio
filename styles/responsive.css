@@ -8,3 +8,31 @@
     font-weight: 600;
   }
 }
+
+/* ~ ====================================================
+~                               1850 and under
+~                                     Section
+~ ==================================================== */
+@media (max-width: 1850px) {
+  .project-item,
+  .aproject-item {
+    width: 250px;
+    max-height: 330px;
+  }
+
+  h6 {
+    font-size: 0.8rem;
+  }
+}
+
+/* ~ ====================================================
+~                               1550 and under
+~                                     Section
+~ ==================================================== */
+@media (max-width: 1850px) {
+  .project-item,
+  .aproject-item {
+    width: 250px;
+    max-height: 330px;
+  }
+}
