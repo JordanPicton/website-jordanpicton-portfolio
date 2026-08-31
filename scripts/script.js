@@ -20,4 +20,8 @@ fetch('https://api.github.com/repos/JordanPicton/website-jordanpicton-portfolio/
         year: 'numeric'
     });
     updatedElement.textContent = formattedDate;
-});
+})
+    .catch(error => {
+        console.log('Error', error);
+        updatedElement.textContent = 'Unknown';
+    });
